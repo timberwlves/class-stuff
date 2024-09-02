@@ -11,6 +11,6 @@ start
 
     modelCapacity = interiorHeight * interiorWidth * interiorDepth / 1728
 
-    print(modelName + modelCapacity)
+    print("modelName + modelCapacity")
 
 end
